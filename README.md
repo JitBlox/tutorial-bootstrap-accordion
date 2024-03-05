@@ -1,5 +1,10 @@
 # Tutorial: Bootstrap Accordion (final)
 
+# About
+This project contains the final result of the JitBlox tutorial [Building a data-bound Bootstrap 5 Accordion](https://www.jitblox.com/docs/tutorial/data-bound-bootstrap-accordion) Check out the tutorial and learn how to implement a Bootstrap Accordion to dynamically display a list of Game of Thrones characters.
+
+![4tvhtDS4Av](https://github.com/JitBlox/tutorial-bootstrap-accordion/assets/36327340/a57556e6-ef14-4342-b518-069024429c71)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
 ## Development server
